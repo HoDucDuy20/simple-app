@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "simple-app",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ef23a1df-4b11-4007-8bb8-202b1078c97f",
+      "database_name": "simple-app-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
